@@ -15,7 +15,7 @@
     <Company>Zen</Company>
     <Description>Cli to generate jwt token and verify it</Description>
     <RepositoryUrl>https://github.com/WajahatAliAbid/jwt-cli</RepositoryUrl>
-    <PackageId>jwt</PackageId>
+    <PackageId>zen-jwt</PackageId>
   </PropertyGroup>
 
   <PropertyGroup>
